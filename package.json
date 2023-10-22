@@ -1,0 +1,13 @@
+{
+  "name": "responisive-navigation-pages-bar-bootstrap",
+  "version": "1.0.0",
+  "description": "Responsive page using bootstrap and the nav bar. Also advanced html pages",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  },
+  "keywords": []
+}
